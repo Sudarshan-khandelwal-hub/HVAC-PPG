@@ -88,8 +88,8 @@ pip install sinergym
 3. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/rl-hvac-datacenter.git
-cd rl-hvac-datacenter
+git clone https://github.com/Sudarshan-khandelwal-hub/HVAC-PPG.git
+cd HVAC-PPG
 ```
 
 ## 🚀 Usage
